@@ -7,10 +7,10 @@ vue2 + vue-router + vuex 入门项目，移动端的一个简易考试系统平�
 
 ```
 # 克隆到本地
-git clone https://github.com/webproblem/vue-demo.git
+git clone https://github.com/ouyouchun/exam_vue.git
 
 # 进入项目
-cd vue-demo
+cd exam_vue
 
 # 安装依赖
 npm install，可以使用cnpm代替npm
